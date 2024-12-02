@@ -52,7 +52,7 @@ A curated list of advent calendars
   - 2008 - 2019, 2021
 
 - [QEMU Advent Calendar](https://www.qemu-advent-calendar.org)
-  - 2014, 2016, 2018, 2020
+  - 2014, 2016, 2018, 2020, 2023
 
 ## Related
 
