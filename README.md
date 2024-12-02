@@ -4,9 +4,9 @@ A curated list of advent calendars
 
 ## Table of Contents
 
-- [Active](## Active)
-- [Inactive](## Inactive)
-- [Related](## Related)
+- [Active](##active)
+- [Inactive](##inactive)
+- [Related](##related)
 
 ## Active
 
